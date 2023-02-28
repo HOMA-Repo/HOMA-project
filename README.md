@@ -2,8 +2,13 @@ Wenjia Update 2/28/2023
 
 How to run this project:
 
+0) build your own DIRECTORY in your own linux: "mkdir workplace4HOMA", then "cd workplace4HOMA" & git clone there.
+
+(if you haven't build ur own linux, check this: https://medium.com/tech-lounge/how-to-install-ubuntu-on-mac-using-virtualbox-3a26515aa869)
+
+
+
 1) git clone https://github.com/HOMA-Repo/HOMA-project.git
-2) 
 3) ./waf configure
 4) ./waf 
 
