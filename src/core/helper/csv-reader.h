@@ -27,7 +27,8 @@
 #include <istream>
 #include <string>
 #include <vector>
-
+#include <stdexcept>
+#include <limits>
 /**
  * \file
  * \ingroup core
