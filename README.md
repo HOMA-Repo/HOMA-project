@@ -12,6 +12,7 @@ How to run this project:
 3) ./waf configure
 4) ./waf 
 
+
 (you should be ablt to see this after building using (./waf):
 
 <img width="1307" alt="image" src="https://user-images.githubusercontent.com/65235107/221955875-68321346-53ef-478f-a23a-07d334233f0c.png">
@@ -24,7 +25,7 @@ how to test HOMA protocol:
 
 tips: use <h3> ./waf clean </h3> if you met any errors, it should help fix it.
 
-
+(the executions of these commands could be long. some of them took me more than 40 minutes, please keep your machine running during executing)
 
 This project is a combination of ns-3 and HOMA protocol (applied HOMA on ns-3).
 
