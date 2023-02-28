@@ -28,7 +28,8 @@
 #include <iterator>
 #include <sstream>
 #include <vector>
-
+#include <stddef.h>
+#include <limits.h>
 /**
  * \file
  * \ingroup core
