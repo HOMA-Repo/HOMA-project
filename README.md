@@ -1,16 +1,30 @@
 Wenjia Update 2/28/2023
 
-ns-3-dev source code: https://gitlab.com/nsnam/ns-3-dev
-
-
 How to run this project:
 
+1) git clone https://github.com/HOMA-Repo/HOMA-project.git
+2) 
+3) ./waf configure
+4) ./waf 
+
+(you should be ablt to see this after building using (./waf):
+
+<img width="1307" alt="image" src="https://user-images.githubusercontent.com/65235107/221955875-68321346-53ef-478f-a23a-07d334233f0c.png">
+
+
+how to test HOMA protocol: 
+./waf --run scratch/HomaL4Protocol-simple-test
+
+<img width="1180" alt="image" src="https://user-images.githubusercontent.com/65235107/221954171-4ed78720-de3a-44f8-8336-47824e06b9c0.png">
+
+tips: use <h3> ./waf clean </h3> if you met any errors, it should help fix it.
 
 
 
+This project is a combination of ns-3 and HOMA protocol (applied HOMA on ns-3).
 
-
-
+ns-3-dev source code: https://gitlab.com/nsnam/ns-3-dev
+source code of this demo: https://github.com/serhatarslan-hub/HomaL4Protocol-ns-3
 
 
 
